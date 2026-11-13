@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "channel": "stable",
+  "published": true,
+  "version": "3.5.1",
+  "downloadUrl": "https://github.com/wrdflap21-code/Sakuga-Upadate/releases/download/v3.5.1/Sakugaloader-v3.5.1.zip",
+  "sha256": "4cb45129b18ca5f21b921bb21bb1fcc97c79ea06ae4af6c573329102447363f0",
+  "notes": [
+    "The panel now checks for updates in the official Sakuga-Upadate repository, which holds the complete panel (CEP) releases.",
+    "The separate Sakugaloader Installer downloads this package and verifies it before installing.",
+    "Faster FFmpeg / Real-ESRGAN downloads from inside the panel, with clearer per-tool progress.",
+    "Search results no longer show a favorite star on clips that are not downloaded.",
+    "SHA256 and ZIP checks, size limits, one update at a time, automatic backup and rollback."
+  ]
+}
