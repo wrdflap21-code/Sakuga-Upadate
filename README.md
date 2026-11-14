@@ -9,6 +9,10 @@
   <img alt="Free for everyone" src="https://img.shields.io/badge/price-free%20forever-ff315b">
 </p>
 
+<p align="center">
+  <img src="assets/logo.gif" alt="Sakugaloader animated logo" width="420">
+</p>
+
 **Sakugaloader** is a free After Effects panel for animators and editors. Find sakuga (key animation) clips on [Sakugabooru](https://www.sakugabooru.com/), download them, organize them, and drop them into your composition without leaving After Effects.
 
 > It is made to be **free for everyone** and **not for sale**. See [License](#license).
