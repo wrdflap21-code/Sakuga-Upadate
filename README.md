@@ -1,4 +1,9 @@
-# Sakugaloader
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner.png">
+    <img src="assets/banner-light.png" alt="SAKUGA loader" width="560">
+  </picture>
+</p>
 
 <p align="center">
   <a href="https://github.com/wrdflap21-code/Sakuga-Upadate/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/wrdflap21-code/Sakuga-Upadate?label=latest&color=ff315b"></a>
