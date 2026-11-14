@@ -2,16 +2,14 @@
   "schemaVersion": 1,
   "channel": "stable",
   "published": true,
-  "version": "3.5.3",
-  "downloadUrl": "https://github.com/wrdflap21-code/Sakuga-Upadate/releases/download/v3.5.3/Sakugaloader-v3.5.3.zip",
-  "sha256": "a06b36e1deae816d93919e38edf68e2418c9ba2fcdc0d5808fdf2d76e71bb798",
+  "version": "3.5.5",
+  "downloadUrl": "https://github.com/wrdflap21-code/Sakuga-Upadate/releases/download/v3.5.5/Sakugaloader-v3.5.5.zip",
+  "sha256": "7f4177896ac18e599f360598c2fcd9ec150050b7809fb03b5c7b9c3ac0638edb",
   "notes": [
-    "The optional public relay for blocked searches (r.jina.ai) is now off by default. You can enable it in About > Privacy; the screen says who receives the search address.",
-    "New Privacy section in About: no analytics, no tracking, and the list of services the panel talks to.",
-    "FFmpeg and Real-ESRGAN are downloaded in a fixed version and checked by SHA256 before use (FFmpeg 9.0.2, Real-ESRGAN 0.2.5.0).",
-    "New installs keep tools under your user profile instead of the root of drive C. Existing installs in the old folder keep working without changes.",
-    "Sakugaloader now ships with the Sakugaloader Free Use License: free for everyone, and it cannot be sold or charged for.",
-    "SHA256 and ZIP checks, size limits, one update at a time, automatic backup and rollback.",
-    "Updated third-party notices (FFmpeg and Real-ESRGAN versions, optional relay)."
+    "Folders you create in the Folder tab are now also created on your PC, inside your Downloads folder, with the same name. Clips downloaded to a folder are saved there. Existing files are never moved, renamed or deleted.",
+    "Search selection bar: one main Download Selected button, centered, and a More actions menu (folder, cut, send to Upscale) with names. It no longer overlaps on narrow panels.",
+    "Player: a clean header with the clip name, the 1 / 24 counter and Quick upscale, a single footer row with previous and next, Download and Import, and an arrow that opens the folder, cut and upscale tools. The favorite star only appears for Library clips.",
+    "Tags stay visible below the footer.",
+    "SHA256 and ZIP checks, size limits, one update at a time, automatic backup and rollback."
   ]
 }
