@@ -1,16 +1,10 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Sakugaloader - Sakuga clips, straight into After Effects" width="100%">
-</p>
+# Sakugaloader
 
 <p align="center">
   <a href="https://github.com/wrdflap21-code/Sakuga-Upadate/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/wrdflap21-code/Sakuga-Upadate?label=latest&color=ff315b"></a>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-10%20%7C%2011-1d2250">
   <img alt="After Effects 2020+" src="https://img.shields.io/badge/After%20Effects-2020%2B-1d2250">
   <img alt="Free for everyone" src="https://img.shields.io/badge/price-free%20forever-ff315b">
-</p>
-
-<p align="center">
-  <img src="assets/logo.gif" alt="Sakugaloader animated logo" width="420">
 </p>
 
 **Sakugaloader** is a free After Effects panel for animators and editors. Find sakuga (key animation) clips on [Sakugabooru](https://www.sakugabooru.com/), download them, organize them, and drop them into your composition without leaving After Effects.
