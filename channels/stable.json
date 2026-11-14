@@ -2,14 +2,13 @@
   "schemaVersion": 1,
   "channel": "stable",
   "published": true,
-  "version": "3.5.5",
-  "downloadUrl": "https://github.com/wrdflap21-code/Sakuga-Upadate/releases/download/v3.5.5/Sakugaloader-v3.5.5.zip",
-  "sha256": "7f4177896ac18e599f360598c2fcd9ec150050b7809fb03b5c7b9c3ac0638edb",
+  "version": "3.5.6",
+  "downloadUrl": "https://github.com/wrdflap21-code/Sakuga-Upadate/releases/download/v3.5.6/Sakugaloader-v3.5.6.zip",
+  "sha256": "57686c562a6cac0acb47a2b48bc16c1b96e16f9246c5d95bfe2ae80e8d012479",
   "notes": [
-    "Folders you create in the Folder tab are now also created on your PC, inside your Downloads folder, with the same name. Clips downloaded to a folder are saved there. Existing files are never moved, renamed or deleted.",
-    "Search selection bar: one main Download Selected button, centered, and a More actions menu (folder, cut, send to Upscale) with names. It no longer overlaps on narrow panels.",
-    "Player: a clean header with the clip name, the 1 / 24 counter and Quick upscale, a single footer row with previous and next, Download and Import, and an arrow that opens the folder, cut and upscale tools. The favorite star only appears for Library clips.",
-    "Tags stay visible below the footer.",
+    "You can now type anime names with spaces. \"sousou no frieren\" works just like sousou_no_frieren. Words are only joined when they form a real Sakugabooru tag, so normal multi-tag searches, order:score, rating:s and -tag keep working exactly as before.",
+    "The autocomplete understands spaces too: while you type \"sousou no fri\" it suggests sousou_no_frieren, and picking it replaces the words you typed.",
+    "When a search finds nothing, a \"Did you mean\" row suggests similar tags (a typo like \"friren\" suggests frieren). It only asks Sakugabooru, the same service the search already uses.",
     "SHA256 and ZIP checks, size limits, one update at a time, automatic backup and rollback."
   ]
 }
