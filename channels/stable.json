@@ -2,12 +2,16 @@
   "schemaVersion": 1,
   "channel": "stable",
   "published": true,
-  "version": "3.5.2",
-  "downloadUrl": "https://github.com/wrdflap21-code/Sakuga-Upadate/releases/download/v3.5.2/Sakugaloader-v3.5.2.zip",
-  "sha256": "cf249b0d3f6f4a45e3f2851b98a07334f764c1c0b5836abede123efe1d2b505d",
+  "version": "3.5.3",
+  "downloadUrl": "https://github.com/wrdflap21-code/Sakuga-Upadate/releases/download/v3.5.3/Sakugaloader-v3.5.3.zip",
+  "sha256": "a06b36e1deae816d93919e38edf68e2418c9ba2fcdc0d5808fdf2d76e71bb798",
   "notes": [
-    "Maintenance release used to confirm that in-app updates from the Sakuga-Upadate repository work end to end (download, SHA256 check, backup, install, rollback).",
-    "The Setup bundled with this package has the centered logo and the Open After Effects button.",
-    "SHA256 and ZIP checks, size limits, one update at a time, automatic backup and rollback."
+    "The optional public relay for blocked searches (r.jina.ai) is now off by default. You can enable it in About > Privacy; the screen says who receives the search address.",
+    "New Privacy section in About: no analytics, no tracking, and the list of services the panel talks to.",
+    "FFmpeg and Real-ESRGAN are downloaded in a fixed version and checked by SHA256 before use (FFmpeg 9.0.2, Real-ESRGAN 0.2.5.0).",
+    "New installs keep tools under your user profile instead of the root of drive C. Existing installs in the old folder keep working without changes.",
+    "Sakugaloader now ships with the Sakugaloader Free Use License: free for everyone, and it cannot be sold or charged for.",
+    "SHA256 and ZIP checks, size limits, one update at a time, automatic backup and rollback.",
+    "Updated third-party notices (FFmpeg and Real-ESRGAN versions, optional relay)."
   ]
 }
