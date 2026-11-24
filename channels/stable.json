@@ -2,15 +2,14 @@
     "schemaVersion":  1,
     "channel":  "stable",
     "published":  true,
-    "version":  "3.5.7",
-    "downloadUrl":  "https://github.com/wrdflap21-code/Sakuga-Upadate/releases/download/v3.5.7/Sakugaloader-v3.5.7.zip",
-    "sha256":  "f39339a8db8bc1c8938a0c4d31f93f936164765c031717d4ab3963f104f684e6",
+    "version":  "3.5.8",
+    "downloadUrl":  "https://github.com/wrdflap21-code/Sakuga-Upadate/releases/download/v3.5.8/Sakugaloader-v3.5.8.zip",
+    "sha256":  "725153a9d52b76629a72ee4e2461d07376c9e0a69552c2a7ae41afd568aa7772",
     "notes":  [
-                  "Search in your language: type an anime name in Portuguese, English or Japanese and the suggestions show a flag for each language. Pick your language in the welcome tour or in Settings \u003e General (or choose \"Original search only\" to turn the translated names off).",
-                  "Optional AniList lookup for anime that are not in the built-in list. It is off by default (About \u003e Privacy) and only sends the name you are typing.",
-                  "New welcome tour the first time you open the panel, with a language picker. You can replay it from About \u003e Help or Settings \u003e General.",
-                  "New Report a bug button (About \u003e Help): send a description, photos, videos or the panel log to the Sakugaloader Discord. Nothing is sent until you press Send, and your Windows user name is removed from the log.",
-                  "The About tab is reorganized into clear cards, and popular multi-word tags such as \"one piece\" now join correctly when typed with spaces.",
+                  "New error window: when an important error happens (installing AniVocal, Upscale or FFmpeg, or a failed update), a clear \"Something went wrong\" window appears with an X, a plain-words explanation and a Send report button.",
+                  "Send report opens the bug report already filled in for that kind of error, with the details attached. You can edit everything before sending, and nothing is sent without your click.",
+                  "New clipboard icon next to install errors to copy the log in one click.",
+                  "AniVocal install fixed: it now shows the MB installed and the current step, finishes on its own, and Check no longer says \"installed\" while the install is still running.",
                   "SHA256 and ZIP checks, size limits, one update at a time, automatic backup and rollback."
               ]
 }
