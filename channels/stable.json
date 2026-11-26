@@ -2,17 +2,16 @@
     "schemaVersion":  1,
     "channel":  "stable",
     "published":  true,
-    "version":  "4.0.0",
-    "downloadUrl":  "https://github.com/wrdflap21-code/Sakuga-Upadate/releases/download/v4.0.0/Sakugaloader-v4.0.0.zip",
-    "sha256":  "7556dea80cd6f60ad5a5c5818bd245e15cffb24f8c4c9d491ff7551658ddae7c",
+    "version":  "4.1.0",
+    "downloadUrl":  "https://github.com/wrdflap21-code/Sakuga-Upadate/releases/download/v4.1.0/Sakugaloader-v4.1.0.zip",
+    "sha256":  "a90e58f3edeec9641fe50b7a57470c68b2bf1d9646659afabd09ea28248fa7d0",
     "notes":  [
-                  "New look: icon side bar, reorganized Settings and a new wallpaper editor with live home preview.",
-                  "New Search: one search bar, Recent / Top / Random / Pools, 16:9 cards with score and one-click Ae import. Downloaded clips get a green outline.",
-                  "New Library: Compact View, Windows-style folders with S/M/L sizes and a cleaner Local tab with filters.",
-                  "The welcome tour can install the optional tools and lets you choose where clips are saved.",
-                  "The update screen now shows animated steps.",
-                  "Changed: the clip menu is now a trash button, folder cover pictures were removed and SakugaRemap is hidden from Settings (still in Window > Extensions).",
-                  "Fixed: total number of search pages, opening folders, the selection bar covering page buttons, long Pools names and the flicker while opening.",
+                  "New player look with drawn icons and more room around it.",
+                  "Cleaner Upscale, AniVocal and cut windows. The cut window repeats the part you selected.",
+                  "S / M / L picture sizes in the Library Compact View, short tab animations and a Version info list in About.",
+                  "Random draws an anime when the search is empty, and keeps your tags when you typed some.",
+                  "Favorites that are not downloaded look like the other clips; Local Pack clips have a simpler player.",
+                  "Fixed: dragging onto Upscale, the dark strip behind search results, a selectable logo, narrow panels and silent clips in AniVocal.",
                   "SHA256 and ZIP checks, size limits, one update at a time, automatic backup and rollback."
               ]
 }
