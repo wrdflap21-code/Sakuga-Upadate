@@ -2,14 +2,17 @@
     "schemaVersion":  1,
     "channel":  "stable",
     "published":  true,
-    "version":  "3.5.8",
-    "downloadUrl":  "https://github.com/wrdflap21-code/Sakuga-Upadate/releases/download/v3.5.8/Sakugaloader-v3.5.8.zip",
-    "sha256":  "725153a9d52b76629a72ee4e2461d07376c9e0a69552c2a7ae41afd568aa7772",
+    "version":  "4.0.0",
+    "downloadUrl":  "https://github.com/wrdflap21-code/Sakuga-Upadate/releases/download/v4.0.0/Sakugaloader-v4.0.0.zip",
+    "sha256":  "7556dea80cd6f60ad5a5c5818bd245e15cffb24f8c4c9d491ff7551658ddae7c",
     "notes":  [
-                  "New error window: when an important error happens (installing AniVocal, Upscale or FFmpeg, or a failed update), a clear \"Something went wrong\" window appears with an X, a plain-words explanation and a Send report button.",
-                  "Send report opens the bug report already filled in for that kind of error, with the details attached. You can edit everything before sending, and nothing is sent without your click.",
-                  "New clipboard icon next to install errors to copy the log in one click.",
-                  "AniVocal install fixed: it now shows the MB installed and the current step, finishes on its own, and Check no longer says \"installed\" while the install is still running.",
+                  "New look: icon side bar, reorganized Settings and a new wallpaper editor with live home preview.",
+                  "New Search: one search bar, Recent / Top / Random / Pools, 16:9 cards with score and one-click Ae import. Downloaded clips get a green outline.",
+                  "New Library: Compact View, Windows-style folders with S/M/L sizes and a cleaner Local tab with filters.",
+                  "The welcome tour can install the optional tools and lets you choose where clips are saved.",
+                  "The update screen now shows animated steps.",
+                  "Changed: the clip menu is now a trash button, folder cover pictures were removed and SakugaRemap is hidden from Settings (still in Window > Extensions).",
+                  "Fixed: total number of search pages, opening folders, the selection bar covering page buttons, long Pools names and the flicker while opening.",
                   "SHA256 and ZIP checks, size limits, one update at a time, automatic backup and rollback."
               ]
 }
