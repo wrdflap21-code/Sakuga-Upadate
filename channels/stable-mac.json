@@ -4,7 +4,7 @@
   "published": true,
   "version": "4.2.0",
   "downloadUrl": "https://github.com/wrdflap21-code/Sakuga-Upadate/releases/download/v4.2.0/Sakugaloader-Mac-v4.2.0.zip",
-  "sha256": "f1f41da7bdbcb349aa93bcbfc203b4e6301d7e4d1739cc20a518641c8caa7d43",
+  "sha256": "d8bac60e69b3e8e0959b75aea2302d033990b3c343551a1ce449c41d997e3adc",
   "notes": [
     "New: Sakugaloader for Mac, with an installer and updates inside the panel.",
     "On Mac, FFmpeg, clip cutting, Upscale and AniVocal need Apple Silicon (M1 or newer).",
