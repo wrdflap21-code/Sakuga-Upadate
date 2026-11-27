@@ -1,17 +1,14 @@
 {
-    "schemaVersion":  1,
-    "channel":  "stable",
-    "published":  true,
-    "version":  "4.1.0",
-    "downloadUrl":  "https://github.com/wrdflap21-code/Sakuga-Upadate/releases/download/v4.1.0/Sakugaloader-v4.1.0.zip",
-    "sha256":  "a90e58f3edeec9641fe50b7a57470c68b2bf1d9646659afabd09ea28248fa7d0",
-    "notes":  [
-                  "New player look with drawn icons and more room around it.",
-                  "Cleaner Upscale, AniVocal and cut windows. The cut window repeats the part you selected.",
-                  "S / M / L picture sizes in the Library Compact View, short tab animations and a Version info list in About.",
-                  "Random draws an anime when the search is empty, and keeps your tags when you typed some.",
-                  "Favorites that are not downloaded look like the other clips; Local Pack clips have a simpler player.",
-                  "Fixed: dragging onto Upscale, the dark strip behind search results, a selectable logo, narrow panels and silent clips in AniVocal.",
-                  "SHA256 and ZIP checks, size limits, one update at a time, automatic backup and rollback."
-              ]
+  "schemaVersion": 1,
+  "channel": "stable",
+  "published": true,
+  "version": "4.2.0",
+  "downloadUrl": "https://github.com/wrdflap21-code/Sakuga-Upadate/releases/download/v4.2.0/Sakugaloader-v4.2.0.zip",
+  "sha256": "536c659a1fc8fb840d30ed0cb63c8f1bf9406240a7b4a79f96df2f5092c4928e",
+  "notes": [
+    "New: Sakugaloader for Mac, with an installer and updates inside the panel.",
+    "On Mac, FFmpeg, clip cutting, Upscale and AniVocal need Apple Silicon (M1 or newer).",
+    "New look for the Trace tab.",
+    "SHA256 and ZIP checks, size limits, one update at a time, automatic backup and rollback."
+  ]
 }
