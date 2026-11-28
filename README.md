@@ -33,8 +33,8 @@
 
 You need **Windows 10 or 11**, **After Effects 2020 (17.5) or newer**, and an internet connection. For Upscale, a Vulkan-capable graphics card is recommended.
 
-1. Download the **Sakugaloader Installer** (`Sakugaloader-Installer-v...zip`) from the [installer releases](https://github.com/wrdflap21-code/sakugaloader-tools/releases/latest).
-2. **Close After Effects**, extract the ZIP, and run **`Sakugaloader-Setup.exe`**.
+1. Download **`Sakugaloader-Setup.exe`** from the [installer releases](https://github.com/wrdflap21-code/sakugaloader-tools/releases/latest). It is a single file, nothing to extract.
+2. **Close After Effects** and run it.
 3. Press **Install**. The installer downloads the latest Sakugaloader panel from this repository, checks its SHA256, and installs it for your user (no administrator needed).
 4. Open After Effects and go to **Window > Extensions > Sakugaloader**.
 
@@ -94,8 +94,8 @@ Sakugaloader is an **unofficial** tool and is not affiliated with Adobe or Sakug
 - **SakugaRemap**, painel auxiliar para remapeamento de tempo em animes.
 
 **Como instalar**
-1. Baixe o **Sakugaloader Installer** nas [releases do instalador](https://github.com/wrdflap21-code/sakugaloader-tools/releases/latest).
-2. **Feche o After Effects**, extraia o ZIP e abra o **`Sakugaloader-Setup.exe`**.
+1. Baixe o **`Sakugaloader-Setup.exe`** nas [releases do instalador](https://github.com/wrdflap21-code/sakugaloader-tools/releases/latest). É um arquivo só, não precisa extrair.
+2. **Feche o After Effects** e abra o instalador.
 3. Clique em **Install**. O instalador baixa o painel mais recente, confere o SHA256 e instala para o seu usuário.
 4. Abra o After Effects em **Window > Extensions > Sakugaloader**.
 
